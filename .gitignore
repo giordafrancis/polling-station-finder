@@ -1,0 +1,11 @@
+polling.db
+polling.db-shm
+polling.db-wal
+.sesskey
+addresses2.csv
+polling_app.ipynb
+polling_app2.ipynb
+polling_app3.ipynb
+polling_app3_dup1.ipynb
+polling_app4_dup1.ipynb
+polling_app4_dup2.ipynb
