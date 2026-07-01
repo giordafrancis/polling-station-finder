@@ -10,10 +10,7 @@ A web app that lets users search for their polling station by typing an address.
 
 Full design journey, data pipeline, and route documentation is in [`polling_app_clean.ipynb`](polling_app_clean.ipynb).
 
-## Working version
-
-The running app code is in [`polling_app4.ipynb`](polling_app4.ipynb).
 
 ## Running it
 
-Open either notebook in Solveit, restart the kernel, and run all cells. Visit `/search_page` on the app's public URL.
+Open `polling_app_clean.ipynb` in Solveit, restart the kernel, and run all cells. Visit `/search_page` on the app's public URL.
